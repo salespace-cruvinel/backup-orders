@@ -1,0 +1,1 @@
+{"backupType":"DELETE_SALE","brandId":2,"customerId":5571,"idempotencyKey":"a77e17c3-ec29-4149-a03d-81c332d4a68e","initializedAt":"2025-06-30T17:30:25.978Z","id":-5,"orders":[{"divisionKey":-1,"initializedAt":"2025-06-30T17:30:26.009Z","priceListId":44877,"deliveryDate":"","deliveryPeriod":"","id":-1,"identifier":"","discounts":[],"orderFields":[],"skus":[]}]}
