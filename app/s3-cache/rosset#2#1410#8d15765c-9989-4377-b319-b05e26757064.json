@@ -1,1 +1,1167 @@
-{"backupType":"AUTO_BACKUP","brandId":2,"customerId":11737,"idempotencyKey":"8d15765c-9989-4377-b319-b05e26757064","initializedAt":"2025-07-08T23:59:43.454Z","id":-12,"orders":[{"divisionKey":-1,"initializedAt":"2025-07-08T23:59:43.492Z","priceListId":44877,"deliveryDate":"","deliveryPeriod":"","id":-1,"identifier":"","discounts":[],"orderFields":[],"skus":[{"id":1330607,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0077.G.0","quantity":1},{"id":1330608,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0077.M.0","quantity":2},{"id":1330609,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0077.P.0","quantity":1},{"id":1330610,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0077.PP.0","quantity":0},{"id":1330611,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0671.G.0","quantity":1},{"id":1330612,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0671.M.0","quantity":1},{"id":1330613,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0671.P.0","quantity":1},{"id":1330614,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0671.PP.0","quantity":0},{"id":5627156,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0077.GG.0","quantity":0},{"id":5627163,"distributionCenterId":1,"unitPrice":144.9,"evaluatedUnitPrice":144.9,"integrationId":"5.14970.0671.GG.0","quantity":0},{"id":1330664,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0077.G.0","quantity":1},{"id":1330665,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0077.M.0","quantity":2},{"id":1330666,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0077.P.0","quantity":1},{"id":1330667,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0077.PP.0","quantity":0},{"id":2891599,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0671.G.0","quantity":1},{"id":2891601,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0671.M.0","quantity":1},{"id":2891603,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0671.P.0","quantity":1},{"id":2891605,"distributionCenterId":1,"unitPrice":92.9,"evaluatedUnitPrice":92.9,"integrationId":"5.14977.0671.PP.0","quantity":0},{"id":1330680,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0077.G.0","quantity":1},{"id":1330681,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0077.M.0","quantity":1},{"id":1330682,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0077.P.0","quantity":0},{"id":1330683,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0077.PP.0","quantity":0},{"id":2562479,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0077.GG.0","quantity":1},{"id":2562480,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0671.GG.0","quantity":0},{"id":2891620,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0671.G.0","quantity":0},{"id":2891623,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0671.M.0","quantity":1},{"id":2891625,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0671.P.0","quantity":1},{"id":2891627,"distributionCenterId":1,"unitPrice":239.9,"evaluatedUnitPrice":239.9,"integrationId":"5.14979.0671.PP.0","quantity":0},{"id":367526,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0077.G.0","quantity":1},{"id":367527,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0077.GG.0","quantity":1},{"id":367528,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0077.M.0","quantity":2},{"id":367529,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0077.P.0","quantity":1},{"id":367530,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0323.G.0","quantity":1},{"id":367531,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0323.GG.0","quantity":1},{"id":367532,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0323.M.0","quantity":2},{"id":367533,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0323.P.0","quantity":1},{"id":2758996,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0426.G.0","quantity":1},{"id":2758997,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0426.GG.0","quantity":1},{"id":2758998,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0426.M.0","quantity":2},{"id":2758999,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15475.0426.P.0","quantity":1},{"id":367542,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0077.G.0","quantity":2},{"id":367543,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0077.GG.0","quantity":1},{"id":367544,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0077.M.0","quantity":2},{"id":367545,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0077.P.0","quantity":1},{"id":367546,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0077.PP.0","quantity":0},{"id":367547,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0323.G.0","quantity":2},{"id":367548,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0323.GG.0","quantity":1},{"id":367549,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0323.M.0","quantity":2},{"id":367550,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0323.P.0","quantity":1},{"id":367551,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0323.PP.0","quantity":0},{"id":2759035,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0426.G.0","quantity":2},{"id":2759036,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0426.GG.0","quantity":1},{"id":2759037,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0426.M.0","quantity":2},{"id":2759038,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0426.P.0","quantity":1},{"id":2759039,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15477.0426.PP.0","quantity":0},{"id":367557,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0323.G.0","quantity":1},{"id":367558,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0323.GG.0","quantity":0},{"id":367559,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0323.M.0","quantity":1},{"id":367560,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0323.P.0","quantity":0},{"id":367561,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0323.PP.0","quantity":0},{"id":2759055,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0426.G.0","quantity":1},{"id":2759056,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0426.GG.0","quantity":0},{"id":2759057,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0426.M.0","quantity":1},{"id":2759058,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0426.P.0","quantity":0},{"id":2759059,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.15478.0426.PP.0","quantity":0},{"id":1334348,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0077.G.0","quantity":0},{"id":1334349,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0077.GG.0","quantity":0},{"id":1334350,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0077.M.0","quantity":1},{"id":1334351,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0077.P.0","quantity":0},{"id":1334352,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0671.G.0","quantity":0},{"id":1334353,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0671.GG.0","quantity":0},{"id":1334354,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0671.M.0","quantity":1},{"id":1334355,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0671.P.0","quantity":1},{"id":2760247,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0323.G.0","quantity":0},{"id":2760248,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0323.GG.0","quantity":0},{"id":2760249,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0323.M.0","quantity":1},{"id":2760250,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0323.P.0","quantity":1},{"id":5073132,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0426.G.0","quantity":0},{"id":5073133,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0426.GG.0","quantity":0},{"id":5073134,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0426.M.0","quantity":1},{"id":5073135,"distributionCenterId":1,"unitPrice":159.9,"evaluatedUnitPrice":159.9,"integrationId":"5.16627.0426.P.0","quantity":1},{"id":4455117,"distributionCenterId":1,"unitPrice":199.9,"evaluatedUnitPrice":199.9,"integrationId":"5.18159.0426.G.0","quantity":1},{"id":4455118,"distributionCenterId":1,"unitPrice":199.9,"evaluatedUnitPrice":199.9,"integrationId":"5.18159.0426.GG.0","quantity":0},{"id":4455119,"distributionCenterId":1,"unitPrice":199.9,"evaluatedUnitPrice":199.9,"integrationId":"5.18159.0426.M.0","quantity":1},{"id":4455120,"distributionCenterId":1,"unitPrice":199.9,"evaluatedUnitPrice":199.9,"integrationId":"5.18159.0426.P.0","quantity":0},{"id":4455121,"distributionCenterId":1,"unitPrice":199.9,"evaluatedUnitPrice":199.9,"integrationId":"5.18159.0426.PP.0","quantity":0},{"id":4455126,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18167.0426.U.0","quantity":1},{"id":4455158,"distributionCenterId":1,"unitPrice":139.9,"evaluatedUnitPrice":139.9,"integrationId":"5.18177.0172.G.0","quantity":1},{"id":4455159,"distributionCenterId":1,"unitPrice":139.9,"evaluatedUnitPrice":139.9,"integrationId":"5.18177.0172.M.0","quantity":1},{"id":4455160,"distributionCenterId":1,"unitPrice":139.9,"evaluatedUnitPrice":139.9,"integrationId":"5.18177.0172.P.0","quantity":0},{"id":4455161,"distributionCenterId":1,"unitPrice":139.9,"evaluatedUnitPrice":139.9,"integrationId":"5.18177.0172.PP.0","quantity":0},{"id":4455162,"distributionCenterId":1,"unitPrice":129.9,"evaluatedUnitPrice":129.9,"integrationId":"5.18178.0172.G.0","quantity":1},{"id":4455163,"distributionCenterId":1,"unitPrice":129.9,"evaluatedUnitPrice":129.9,"integrationId":"5.18178.0172.GG.0","quantity":0},{"id":4455164,"distributionCenterId":1,"unitPrice":129.9,"evaluatedUnitPrice":129.9,"integrationId":"5.18178.0172.M.0","quantity":1},{"id":4455165,"distributionCenterId":1,"unitPrice":129.9,"evaluatedUnitPrice":129.9,"integrationId":"5.18178.0172.P.0","quantity":0},{"id":4455166,"distributionCenterId":1,"unitPrice":129.9,"evaluatedUnitPrice":129.9,"integrationId":"5.18178.0172.PP.0","quantity":0},{"id":4455175,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.18181.0172.G.0","quantity":1},{"id":4455176,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.18181.0172.M.0","quantity":1},{"id":4455177,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.18181.0172.P.0","quantity":0},{"id":4455178,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.18181.0172.PP.0","quantity":0},{"id":4455179,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18182.0172.G.0","quantity":1},{"id":4455180,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18182.0172.GG.0","quantity":0},{"id":4455181,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18182.0172.M.0","quantity":1},{"id":4455182,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18182.0172.P.0","quantity":0},{"id":4455183,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18182.0172.PP.0","quantity":0},{"id":4455192,"distributionCenterId":1,"unitPrice":199,"evaluatedUnitPrice":199,"integrationId":"5.18187.0172.U.0","quantity":1},{"id":4455339,"distributionCenterId":1,"unitPrice":189.9,"evaluatedUnitPrice":189.9,"integrationId":"5.18290.0312.G.0","quantity":1},{"id":4455340,"distributionCenterId":1,"unitPrice":189.9,"evaluatedUnitPrice":189.9,"integrationId":"5.18290.0312.M.0","quantity":1},{"id":4455341,"distributionCenterId":1,"unitPrice":189.9,"evaluatedUnitPrice":189.9,"integrationId":"5.18290.0312.P.0","quantity":1},{"id":4455342,"distributionCenterId":1,"unitPrice":189.9,"evaluatedUnitPrice":189.9,"integrationId":"5.18290.0312.PP.0","quantity":0},{"id":6322456,"distributionCenterId":1,"unitPrice":189.9,"evaluatedUnitPrice":189.9,"integrationId":"5.18290.0312.GG.0","quantity":0},{"id":4455351,"distributionCenterId":1,"unitPrice":249,"evaluatedUnitPrice":249,"integrationId":"5.18293.0312.G.0","quantity":1},{"id":4455352,"distributionCenterId":1,"unitPrice":249,"evaluatedUnitPrice":249,"integrationId":"5.18293.0312.GG.0","quantity":1},{"id":4455353,"distributionCenterId":1,"unitPrice":249,"evaluatedUnitPrice":249,"integrationId":"5.18293.0312.M.0","quantity":1},{"id":4455354,"distributionCenterId":1,"unitPrice":249,"evaluatedUnitPrice":249,"integrationId":"5.18293.0312.P.0","quantity":1},{"id":4455355,"distributionCenterId":1,"unitPrice":249,"evaluatedUnitPrice":249,"integrationId":"5.18293.0312.PP.0","quantity":0},{"id":4455356,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18294.0312.G.0","quantity":1},{"id":4455357,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18294.0312.M.0","quantity":1},{"id":4455358,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18294.0312.P.0","quantity":1},{"id":4455359,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18294.0312.PP.0","quantity":0},{"id":6523545,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.18294.0312.GG.0","quantity":0},{"id":4455368,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.18298.0312.G.0","quantity":1},{"id":4455369,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.18298.0312.GG.0","quantity":1},{"id":4455370,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.18298.0312.M.0","quantity":2},{"id":4455371,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.18298.0312.P.0","quantity":0},{"id":4455372,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.18298.0312.PP.0","quantity":0},{"id":4455436,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0077.G.0","quantity":1},{"id":4455437,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0077.M.0","quantity":1},{"id":4455438,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0077.P.0","quantity":0},{"id":4455439,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0077.PP.0","quantity":0},{"id":7551236,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0671.G.1","quantity":0},{"id":7551237,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0671.M.1","quantity":1},{"id":7551238,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0671.P.1","quantity":0},{"id":7551239,"distributionCenterId":1,"unitPrice":219.9,"evaluatedUnitPrice":219.9,"integrationId":"5.18347.0671.PP.1","quantity":0},{"id":4455566,"distributionCenterId":1,"unitPrice":169.9,"evaluatedUnitPrice":169.9,"integrationId":"5.18584.0281.U.0","quantity":1},{"id":4455601,"distributionCenterId":1,"unitPrice":379.9,"evaluatedUnitPrice":379.9,"integrationId":"5.18601.0172.G.0","quantity":0},{"id":4455602,"distributionCenterId":1,"unitPrice":379.9,"evaluatedUnitPrice":379.9,"integrationId":"5.18601.0172.GG.0","quantity":0},{"id":4455603,"distributionCenterId":1,"unitPrice":379.9,"evaluatedUnitPrice":379.9,"integrationId":"5.18601.0172.M.0","quantity":1},{"id":4455604,"distributionCenterId":1,"unitPrice":379.9,"evaluatedUnitPrice":379.9,"integrationId":"5.18601.0172.P.0","quantity":0},{"id":4455618,"distributionCenterId":1,"unitPrice":649.9,"evaluatedUnitPrice":649.9,"integrationId":"5.18603.0671.G.0","quantity":0},{"id":4455619,"distributionCenterId":1,"unitPrice":649.9,"evaluatedUnitPrice":649.9,"integrationId":"5.18603.0671.GG.0","quantity":0},{"id":4455620,"distributionCenterId":1,"unitPrice":649.9,"evaluatedUnitPrice":649.9,"integrationId":"5.18603.0671.M.0","quantity":1},{"id":4455621,"distributionCenterId":1,"unitPrice":649.9,"evaluatedUnitPrice":649.9,"integrationId":"5.18603.0671.P.0","quantity":1}]}]}
+{
+    "backupType": "AUTO_BACKUP",
+    "brandId": 2,
+    "customerId": 11737,
+    "idempotencyKey": "8d15765c-9989-4377-b319-b05e26757064",
+    "initializedAt": "2025-07-08T23:59:43.454Z",
+    "id": -12,
+    "orders": [
+        {
+            "divisionKey": -1,
+            "initializedAt": "2025-07-08T23:59:43.492Z",
+            "priceListId": 44877,
+            "deliveryDate": "",
+            "deliveryPeriod": "",
+            "id": -1,
+            "identifier": "",
+            "discounts": [],
+            "orderFields": [],
+            "skus": [
+                {
+                    "id": 1330607,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0077.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330608,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0077.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 1330609,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0077.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330610,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0077.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1330611,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0671.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330612,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0671.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330613,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0671.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330614,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0671.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 5627156,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0077.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 5627163,
+                    "distributionCenterId": 1,
+                    "unitPrice": 144.9,
+                    "evaluatedUnitPrice": 144.9,
+                    "integrationId": "5.14970.0671.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1330664,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0077.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330665,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0077.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 1330666,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0077.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330667,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0077.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2891599,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0671.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2891601,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0671.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2891603,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0671.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2891605,
+                    "distributionCenterId": 1,
+                    "unitPrice": 92.9,
+                    "evaluatedUnitPrice": 92.9,
+                    "integrationId": "5.14977.0671.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1330680,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0077.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330681,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0077.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1330682,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0077.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1330683,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0077.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2562479,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0077.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2562480,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0671.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2891620,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0671.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2891623,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0671.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2891625,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0671.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2891627,
+                    "distributionCenterId": 1,
+                    "unitPrice": 239.9,
+                    "evaluatedUnitPrice": 239.9,
+                    "integrationId": "5.14979.0671.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 367526,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0077.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367527,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0077.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367528,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0077.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 367529,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0077.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367530,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0323.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367531,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0323.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367532,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0323.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 367533,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0323.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2758996,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0426.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2758997,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0426.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2758998,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0426.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 2758999,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15475.0426.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367542,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0077.G.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 367543,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0077.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367544,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0077.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 367545,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0077.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367546,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0077.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 367547,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0323.G.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 367548,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0323.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367549,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0323.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 367550,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0323.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367551,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0323.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2759035,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0426.G.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 2759036,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0426.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2759037,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0426.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 2759038,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0426.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2759039,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15477.0426.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 367557,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0323.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367558,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0323.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 367559,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0323.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 367560,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0323.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 367561,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0323.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2759055,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0426.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2759056,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0426.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2759057,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0426.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2759058,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0426.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2759059,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.15478.0426.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1334348,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0077.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1334349,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0077.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1334350,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0077.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1334351,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0077.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1334352,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0671.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1334353,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0671.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 1334354,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0671.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 1334355,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0671.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2760247,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0323.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2760248,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0323.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 2760249,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0323.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 2760250,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0323.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 5073132,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0426.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 5073133,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0426.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 5073134,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0426.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 5073135,
+                    "distributionCenterId": 1,
+                    "unitPrice": 159.9,
+                    "evaluatedUnitPrice": 159.9,
+                    "integrationId": "5.16627.0426.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455117,
+                    "distributionCenterId": 1,
+                    "unitPrice": 199.9,
+                    "evaluatedUnitPrice": 199.9,
+                    "integrationId": "5.18159.0426.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455118,
+                    "distributionCenterId": 1,
+                    "unitPrice": 199.9,
+                    "evaluatedUnitPrice": 199.9,
+                    "integrationId": "5.18159.0426.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455119,
+                    "distributionCenterId": 1,
+                    "unitPrice": 199.9,
+                    "evaluatedUnitPrice": 199.9,
+                    "integrationId": "5.18159.0426.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455120,
+                    "distributionCenterId": 1,
+                    "unitPrice": 199.9,
+                    "evaluatedUnitPrice": 199.9,
+                    "integrationId": "5.18159.0426.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455121,
+                    "distributionCenterId": 1,
+                    "unitPrice": 199.9,
+                    "evaluatedUnitPrice": 199.9,
+                    "integrationId": "5.18159.0426.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455126,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18167.0426.U.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455158,
+                    "distributionCenterId": 1,
+                    "unitPrice": 139.9,
+                    "evaluatedUnitPrice": 139.9,
+                    "integrationId": "5.18177.0172.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455159,
+                    "distributionCenterId": 1,
+                    "unitPrice": 139.9,
+                    "evaluatedUnitPrice": 139.9,
+                    "integrationId": "5.18177.0172.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455160,
+                    "distributionCenterId": 1,
+                    "unitPrice": 139.9,
+                    "evaluatedUnitPrice": 139.9,
+                    "integrationId": "5.18177.0172.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455161,
+                    "distributionCenterId": 1,
+                    "unitPrice": 139.9,
+                    "evaluatedUnitPrice": 139.9,
+                    "integrationId": "5.18177.0172.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455162,
+                    "distributionCenterId": 1,
+                    "unitPrice": 129.9,
+                    "evaluatedUnitPrice": 129.9,
+                    "integrationId": "5.18178.0172.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455163,
+                    "distributionCenterId": 1,
+                    "unitPrice": 129.9,
+                    "evaluatedUnitPrice": 129.9,
+                    "integrationId": "5.18178.0172.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455164,
+                    "distributionCenterId": 1,
+                    "unitPrice": 129.9,
+                    "evaluatedUnitPrice": 129.9,
+                    "integrationId": "5.18178.0172.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455165,
+                    "distributionCenterId": 1,
+                    "unitPrice": 129.9,
+                    "evaluatedUnitPrice": 129.9,
+                    "integrationId": "5.18178.0172.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455166,
+                    "distributionCenterId": 1,
+                    "unitPrice": 129.9,
+                    "evaluatedUnitPrice": 129.9,
+                    "integrationId": "5.18178.0172.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455175,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.18181.0172.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455176,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.18181.0172.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455177,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.18181.0172.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455178,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.18181.0172.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455179,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18182.0172.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455180,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18182.0172.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455181,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18182.0172.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455182,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18182.0172.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455183,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18182.0172.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455192,
+                    "distributionCenterId": 1,
+                    "unitPrice": 199,
+                    "evaluatedUnitPrice": 199,
+                    "integrationId": "5.18187.0172.U.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455339,
+                    "distributionCenterId": 1,
+                    "unitPrice": 189.9,
+                    "evaluatedUnitPrice": 189.9,
+                    "integrationId": "5.18290.0312.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455340,
+                    "distributionCenterId": 1,
+                    "unitPrice": 189.9,
+                    "evaluatedUnitPrice": 189.9,
+                    "integrationId": "5.18290.0312.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455341,
+                    "distributionCenterId": 1,
+                    "unitPrice": 189.9,
+                    "evaluatedUnitPrice": 189.9,
+                    "integrationId": "5.18290.0312.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455342,
+                    "distributionCenterId": 1,
+                    "unitPrice": 189.9,
+                    "evaluatedUnitPrice": 189.9,
+                    "integrationId": "5.18290.0312.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 6322456,
+                    "distributionCenterId": 1,
+                    "unitPrice": 189.9,
+                    "evaluatedUnitPrice": 189.9,
+                    "integrationId": "5.18290.0312.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455351,
+                    "distributionCenterId": 1,
+                    "unitPrice": 249,
+                    "evaluatedUnitPrice": 249,
+                    "integrationId": "5.18293.0312.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455352,
+                    "distributionCenterId": 1,
+                    "unitPrice": 249,
+                    "evaluatedUnitPrice": 249,
+                    "integrationId": "5.18293.0312.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455353,
+                    "distributionCenterId": 1,
+                    "unitPrice": 249,
+                    "evaluatedUnitPrice": 249,
+                    "integrationId": "5.18293.0312.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455354,
+                    "distributionCenterId": 1,
+                    "unitPrice": 249,
+                    "evaluatedUnitPrice": 249,
+                    "integrationId": "5.18293.0312.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455355,
+                    "distributionCenterId": 1,
+                    "unitPrice": 249,
+                    "evaluatedUnitPrice": 249,
+                    "integrationId": "5.18293.0312.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455356,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18294.0312.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455357,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18294.0312.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455358,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18294.0312.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455359,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18294.0312.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 6523545,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.18294.0312.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455368,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.18298.0312.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455369,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.18298.0312.GG.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455370,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.18298.0312.M.0",
+                    "quantity": 2
+                },
+                {
+                    "id": 4455371,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.18298.0312.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455372,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.18298.0312.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455436,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0077.G.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455437,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0077.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455438,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0077.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455439,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0077.PP.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 7551236,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0671.G.1",
+                    "quantity": 0
+                },
+                {
+                    "id": 7551237,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0671.M.1",
+                    "quantity": 1
+                },
+                {
+                    "id": 7551238,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0671.P.1",
+                    "quantity": 0
+                },
+                {
+                    "id": 7551239,
+                    "distributionCenterId": 1,
+                    "unitPrice": 219.9,
+                    "evaluatedUnitPrice": 219.9,
+                    "integrationId": "5.18347.0671.PP.1",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455566,
+                    "distributionCenterId": 1,
+                    "unitPrice": 169.9,
+                    "evaluatedUnitPrice": 169.9,
+                    "integrationId": "5.18584.0281.U.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455601,
+                    "distributionCenterId": 1,
+                    "unitPrice": 379.9,
+                    "evaluatedUnitPrice": 379.9,
+                    "integrationId": "5.18601.0172.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455602,
+                    "distributionCenterId": 1,
+                    "unitPrice": 379.9,
+                    "evaluatedUnitPrice": 379.9,
+                    "integrationId": "5.18601.0172.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455603,
+                    "distributionCenterId": 1,
+                    "unitPrice": 379.9,
+                    "evaluatedUnitPrice": 379.9,
+                    "integrationId": "5.18601.0172.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455604,
+                    "distributionCenterId": 1,
+                    "unitPrice": 379.9,
+                    "evaluatedUnitPrice": 379.9,
+                    "integrationId": "5.18601.0172.P.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455618,
+                    "distributionCenterId": 1,
+                    "unitPrice": 649.9,
+                    "evaluatedUnitPrice": 649.9,
+                    "integrationId": "5.18603.0671.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455619,
+                    "distributionCenterId": 1,
+                    "unitPrice": 649.9,
+                    "evaluatedUnitPrice": 649.9,
+                    "integrationId": "5.18603.0671.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4455620,
+                    "distributionCenterId": 1,
+                    "unitPrice": 649.9,
+                    "evaluatedUnitPrice": 649.9,
+                    "integrationId": "5.18603.0671.M.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4455621,
+                    "distributionCenterId": 1,
+                    "unitPrice": 649.9,
+                    "evaluatedUnitPrice": 649.9,
+                    "integrationId": "5.18603.0671.P.0",
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}

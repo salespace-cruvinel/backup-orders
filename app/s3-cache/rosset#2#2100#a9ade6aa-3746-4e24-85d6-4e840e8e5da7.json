@@ -1,1 +1,22 @@
-{"backupType":"AUTO_BACKUP","brandId":2,"customerId":10592,"idempotencyKey":"a9ade6aa-3746-4e24-85d6-4e840e8e5da7","initializedAt":"2025-06-25T19:58:04.860Z","id":-1,"orders":[{"divisionKey":-1,"initializedAt":"2025-06-25T19:58:04.987Z","priceListId":44877,"deliveryDate":"","deliveryPeriod":"","id":-1,"identifier":"","discounts":[],"orderFields":[],"skus":[]}]}
+{
+    "backupType": "AUTO_BACKUP",
+    "brandId": 2,
+    "customerId": 10592,
+    "idempotencyKey": "a9ade6aa-3746-4e24-85d6-4e840e8e5da7",
+    "initializedAt": "2025-06-25T19:58:04.860Z",
+    "id": -1,
+    "orders": [
+        {
+            "divisionKey": -1,
+            "initializedAt": "2025-06-25T19:58:04.987Z",
+            "priceListId": 44877,
+            "deliveryDate": "",
+            "deliveryPeriod": "",
+            "id": -1,
+            "identifier": "",
+            "discounts": [],
+            "orderFields": [],
+            "skus": []
+        }
+    ]
+}

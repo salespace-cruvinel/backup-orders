@@ -1,1 +1,127 @@
-{"backupType":"DELETE_SALE","brandId":2,"customerId":12294,"idempotencyKey":"83e7ade2-bf0f-42f1-a414-7bdcf6351734","initializedAt":"2025-06-26T18:59:50.761Z","id":-11,"orders":[{"divisionKey":-1,"initializedAt":"2025-06-26T18:59:50.831Z","priceListId":44877,"deliveryDate":"","deliveryPeriod":"","id":-1,"identifier":"","discounts":[],"orderFields":[],"skus":[{"id":4452518,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15960.0177.G.0","quantity":0},{"id":4452519,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15960.0177.M.0","quantity":0},{"id":4452520,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15960.0177.P.0","quantity":1},{"id":4452521,"distributionCenterId":1,"unitPrice":89.9,"evaluatedUnitPrice":89.9,"integrationId":"5.15960.0177.PP.0","quantity":1},{"id":4452531,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15965.0177.G.0","quantity":0},{"id":4452532,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15965.0177.M.0","quantity":0},{"id":4452533,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15965.0177.P.0","quantity":1},{"id":4452534,"distributionCenterId":1,"unitPrice":79.9,"evaluatedUnitPrice":79.9,"integrationId":"5.15965.0177.PP.0","quantity":1},{"id":4452539,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.15968.0177.G.0","quantity":0},{"id":4452540,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.15968.0177.GG.0","quantity":0},{"id":4452541,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.15968.0177.M.0","quantity":0},{"id":4452542,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.15968.0177.P.0","quantity":1},{"id":4452543,"distributionCenterId":1,"unitPrice":109.9,"evaluatedUnitPrice":109.9,"integrationId":"5.15968.0177.PP.0","quantity":1}]}]}
+{
+    "backupType": "DELETE_SALE",
+    "brandId": 2,
+    "customerId": 12294,
+    "idempotencyKey": "83e7ade2-bf0f-42f1-a414-7bdcf6351734",
+    "initializedAt": "2025-06-26T18:59:50.761Z",
+    "id": -11,
+    "orders": [
+        {
+            "divisionKey": -1,
+            "initializedAt": "2025-06-26T18:59:50.831Z",
+            "priceListId": 44877,
+            "deliveryDate": "",
+            "deliveryPeriod": "",
+            "id": -1,
+            "identifier": "",
+            "discounts": [],
+            "orderFields": [],
+            "skus": [
+                {
+                    "id": 4452518,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15960.0177.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452519,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15960.0177.M.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452520,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15960.0177.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4452521,
+                    "distributionCenterId": 1,
+                    "unitPrice": 89.9,
+                    "evaluatedUnitPrice": 89.9,
+                    "integrationId": "5.15960.0177.PP.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4452531,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15965.0177.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452532,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15965.0177.M.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452533,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15965.0177.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4452534,
+                    "distributionCenterId": 1,
+                    "unitPrice": 79.9,
+                    "evaluatedUnitPrice": 79.9,
+                    "integrationId": "5.15965.0177.PP.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4452539,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.15968.0177.G.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452540,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.15968.0177.GG.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452541,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.15968.0177.M.0",
+                    "quantity": 0
+                },
+                {
+                    "id": 4452542,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.15968.0177.P.0",
+                    "quantity": 1
+                },
+                {
+                    "id": 4452543,
+                    "distributionCenterId": 1,
+                    "unitPrice": 109.9,
+                    "evaluatedUnitPrice": 109.9,
+                    "integrationId": "5.15968.0177.PP.0",
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}

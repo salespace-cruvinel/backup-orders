@@ -1,1 +1,21 @@
-{"brandId":2,"customerId":8890,"idempotencyKey":"2a068762-57ae-4da2-ac66-6fd179c00e91","initializedAt":"2025-06-26T15:31:30.592Z","id":-1,"orders":[{"divisionKey":-1,"initializedAt":"2025-06-26T15:31:30.648Z","priceListId":44877,"deliveryDate":"","deliveryPeriod":"","id":-1,"identifier":"","discounts":[],"orderFields":[],"skus":[]}]}
+{
+    "brandId": 2,
+    "customerId": 8890,
+    "idempotencyKey": "2a068762-57ae-4da2-ac66-6fd179c00e91",
+    "initializedAt": "2025-06-26T15:31:30.592Z",
+    "id": -1,
+    "orders": [
+        {
+            "divisionKey": -1,
+            "initializedAt": "2025-06-26T15:31:30.648Z",
+            "priceListId": 44877,
+            "deliveryDate": "",
+            "deliveryPeriod": "",
+            "id": -1,
+            "identifier": "",
+            "discounts": [],
+            "orderFields": [],
+            "skus": []
+        }
+    ]
+}

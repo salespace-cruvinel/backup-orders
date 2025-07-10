@@ -1,1 +1,34 @@
-{"backupType":"AUTO_BACKUP","brandId":2,"customerId":10452,"idempotencyKey":"2440ae52-1c98-4062-94f5-0c55c1dbe92e","initializedAt":"2025-06-25T03:20:17.067Z","id":-2,"orders":[{"divisionKey":-1,"initializedAt":"2025-06-25T03:20:17.094Z","priceListId":44877,"title":"REJANE","deliveryPeriod":326,"id":-1,"identifier":"","discounts":[],"orderFields":[],"skus":[]},{"divisionKey":-2,"initializedAt":"2025-06-25T03:25:20.056Z","priceListId":44877,"deliveryDate":"","deliveryPeriod":"","id":-2,"identifier":"","discounts":[],"orderFields":[],"skus":[]}]}
+{
+    "backupType": "AUTO_BACKUP",
+    "brandId": 2,
+    "customerId": 10452,
+    "idempotencyKey": "2440ae52-1c98-4062-94f5-0c55c1dbe92e",
+    "initializedAt": "2025-06-25T03:20:17.067Z",
+    "id": -2,
+    "orders": [
+        {
+            "divisionKey": -1,
+            "initializedAt": "2025-06-25T03:20:17.094Z",
+            "priceListId": 44877,
+            "title": "REJANE",
+            "deliveryPeriod": 326,
+            "id": -1,
+            "identifier": "",
+            "discounts": [],
+            "orderFields": [],
+            "skus": []
+        },
+        {
+            "divisionKey": -2,
+            "initializedAt": "2025-06-25T03:25:20.056Z",
+            "priceListId": 44877,
+            "deliveryDate": "",
+            "deliveryPeriod": "",
+            "id": -2,
+            "identifier": "",
+            "discounts": [],
+            "orderFields": [],
+            "skus": []
+        }
+    ]
+}
