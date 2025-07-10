@@ -28,7 +28,6 @@ async function startServer() {
 
   app.use(cors({ origin: "http://localhost:5173" }));
 
-  // Conecta as rotas
   app.use('/api/sales', salesRouter);
   app.use('/api/dashboard', dashboardRouter);
 

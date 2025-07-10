@@ -3,12 +3,12 @@ import { StatusDashboard } from './components/status-dashboard';
 
 function App() {
   return (
-    <div className="container mx-auto p-4 space-y-8">
-      <header className="bg-gray-800 text-white p-4 rounded-md">
-        <h1 className="text-2xl font-bold">Dashboard de Vendas</h1>
+    <div className='container mx-auto p-3'>
+      <header>
+        <h1 className='font-bold text-3xl'>Dashboard de Vendas</h1>
       </header>
 
-      <main className="space-y-8">        
+      <main>        
         {/* Dashboard de status */}
         <StatusDashboard/>
 

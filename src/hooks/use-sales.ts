@@ -12,7 +12,7 @@ export function useSales() {
 
     const fetchSalesFromApi = async () => {
       try {
-        const response = await fetch("http://localhost:3001/api/sales"); // request para a rota que monta as sales
+        const response = await fetch("http://localhost:3001/api/sales");
 
         if (!response.ok) {
           throw new Error(`Erro na API: ${response.statusText}`);

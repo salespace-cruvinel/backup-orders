@@ -38,7 +38,7 @@ export interface Record {
 }
 
 export interface Sale {
-  source?: string; //
+  source?: string;
   tenantId: string;
   compositeKey: string;
   brandId: number;

@@ -1,11 +1,10 @@
 import { useEffect, useState } from "react";
 
-// Tipagem para os resumos que virão da API
 interface StatusSummaryItem {
   statusId: number;
   statusName: string;
-  saleCount?: number; // Para o resumo de vendas
-  orderCount?: number; // Para o resumo de pedidos
+  saleCount?: number;
+  orderCount?: number;
   totalValue: number;
 }
 
